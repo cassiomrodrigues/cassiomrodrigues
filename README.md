@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cassiomrodrigues
 - 👀 I’m an IT Infrastructure Analyst
-- 🌱 I’m coursing a Fullstack Developer Bootcamp
-- 💞️ I’m looking to learn more about "the other side of IT" :)
+- 🌱 I’m coursing a Fullstack Developer Bootcamp now
+- 💞️ I’m looking to learn more about of "the other side of IT" :)
 - 📫 How to reach me ...
 https://www.linkedin.com/in/cassio-mrodrigues/
 
